@@ -15,7 +15,7 @@
        * [第五步 职位建立完毕](chapter2/235di_wu_bu_zhi_wei_jian_li_wan_bi_md.md)
    * [发布广告](chapter2/24fa_bu_guang_gao_md.md)
        * [第一步 职位广告信息维护](chapter2/241di_yi_bu_zhi_wei_guang_gao_xin_xi_wei_hu_md.md)
-       * [2.4.2 第二步 发布广告管理](chapter2/242di_er_bu_fa_bu_guang_gao_guan_li_md.md)
+       * [第二步 发布广告管理](chapter2/242di_er_bu_fa_bu_guang_gao_guan_li_md.md)
        * [2.4.3 第三步 发布渠道管理](chapter2/243di_san_bu_fa_bu_qu_dao_guan_li_md.md)
        * [2.4.4 第四步 广告发布完成](chapter2/244di_si_bu_guang_gao_fa_bu_wan_cheng_md.md)
    * [2.5 筛选简历](chapter2/25shai_xuan_jian_li_md.md)
