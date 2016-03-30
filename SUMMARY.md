@@ -4,7 +4,7 @@
 * [首页](chapter1/readmemdmd.md)
    * [工作台](chapter1/section1mdmd.md)
    * [仪表盘](chapter1/section2mdmd.md)
-* [2 职位](chapter2/readmemdmd.md)
+* [职位](chapter2/readmemdmd.md)
    * [2.1 如何进入职位](chapter2/section1mdmd.md)
    * [2.2 界面介绍](chapter2/jiemian_jie_shao_md.md)
    * [2.3 新增职位](chapter2/section2mdmd.md)
