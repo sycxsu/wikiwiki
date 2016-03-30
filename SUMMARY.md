@@ -24,10 +24,10 @@
        * [第三步 简历筛选](chapter2/253di_san_bu_jian_li_shai_xuan_md.md)
    * [邀请测评](chapter2/26ren_cai_ku_md.md)
    * [安排面试](chapter2/27mdmd.md)
+       * 安排多轮面试
        * [导入简历](chapter2/271mdmd.md)
        * [2.7.2 安排至面试场地](chapter2/272md.md)
        * [2.7.3 面试官操作](chapter2/273_mian_shi_guan_cao_zuo.md)
-       * 安排多轮面试
    * [2.8 OFFER审批及发送](chapter2/28_offershen_pi_ji_fa_song.md)
        * [2.8.1 OFFER审批](chapter2/281_offershen_pi.md)
        * [2.8.2 OFFER发送](chapter2/282_offerfa_song.md)
