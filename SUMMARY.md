@@ -31,7 +31,7 @@
    * [OFFER审批及发送](chapter2/28offershen_pi_ji_fa_song_md.md)
        * [OFFER审批](chapter2/281offershen_pi_md.md)
        * [OFFER发送](chapter2/282offerfa_song_md.md)
-   * [2.9 正式录用](chapter2/29zheng_shi_lu_yong_md.md)
+   * [正式录用](chapter2/29zheng_shi_lu_yong_md.md)
 * [3 项目](3_xiang_mu.md)
    * [3.1 建立项目](31_jian_li_xiang_mu.md)
        * [3.1.1 第一步 新建项目](312_di_yi_bu_xin_jian_xiang_mu.md)
