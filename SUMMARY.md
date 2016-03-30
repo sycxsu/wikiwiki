@@ -30,7 +30,7 @@
        * [面试官操作](chapter2/273mian_shi_guan_cao_zuo_md.md)
    * [2.8 OFFER审批及发送](chapter2/28offershen_pi_ji_fa_song_md.md)
        * [2.8.1 OFFER审批](chapter2/281offershen_pi_md.md)
-       * [2.8.2 OFFER发送](chapter2/282_offerfa_song.md)
+       * [2.8.2 OFFER发送](chapter2/282offerfa_song_md.md)
    * [2.9 正式录用](chapter2/29_zheng_shi_lu_yong.md)
 * [3 项目](3_xiang_mu.md)
    * [3.1 建立项目](31_jian_li_xiang_mu.md)
