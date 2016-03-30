@@ -1,3 +1,3 @@
-# My Awesome Book
+# 北森招聘管理系统
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+通过本手册可以使操作者正确的使用该系统，并对系统的功能有较深入的了解。
