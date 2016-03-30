@@ -10,7 +10,7 @@
    * [新增职位](chapter2/section2mdmd.md)
        * [第一步 新增职位](chapter2/231di_yi_bu_xin_zeng_zhi_wei_md.md)
        * [第二步 填写职位详情](chapter2/232di_er_bu_tian_xie_zhi_wei_xiang_qing_md.md)
-       * [2.3.3 第三步 设置招聘过程](chapter2/233di_san_bu_she_zhi_zhao_pin_guo_cheng_md.md)
+       * [第三步 设置招聘过程](chapter2/233di_san_bu_she_zhi_zhao_pin_guo_cheng_md.md)
        * [2.3.4 第四步 填写审批内容](chapter2/234di_si_bu_tian_xie_shen_pi_nei_rong_md.md)
        * [2.3.5 第五步 职位建立完毕](chapter2/235di_wu_bu_zhi_wei_jian_li_wan_bi_md.md)
    * [2.4 发布广告](chapter2/24fa_bu_guang_gao_md.md)
