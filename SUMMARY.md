@@ -7,7 +7,7 @@
 * [2 职位](chapter2/readmemdmd.md)
    * [2.1 如何进入职位](chapter2/section1mdmd.md)
    * [2.2 界面介绍](chapter2/jiemian_jie_shao_md.md)
-   * [2.3 新增职位](chapter2/section2md.md)
+   * [2.3 新增职位](chapter2/section2mdmd.md)
        * [2.3.1 第一步 新增职位](chapter2/231_di_yi_bu_xin_zeng_zhi_wei.md)
        * [2.3.2 第二步 填写职位详情](chapter2/232_di_er_bu_tian_xie_zhi_wei_xiang_qing.md)
        * [2.3.3 第三步 设置招聘过程](chapter2/233_di_san_bu_she_zhi_zhao_pin_guo_cheng.md)
