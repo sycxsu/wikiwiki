@@ -21,7 +21,7 @@
    * [2.5 筛选简历](chapter2/25shai_xuan_jian_li_md.md)
        * [2.5.1 第一步 职位维护](chapter2/251di_yi_bu_zhi_wei_wei_hu_md.md)
        * [2.5.2 第二步 简历初筛](chapter2/252di_er_bu_jian_li_chu_shai_md.md)
-       * [2.5.3 第三步 简历筛选](chapter2/253_di_san_bu_jian_li_shai_xuan.md)
+       * [2.5.3 第三步 简历筛选](chapter2/253di_san_bu_jian_li_shai_xuan_md.md)
    * [2.6 邀请测评](chapter2/26_ren_cai_ku.md)
    * [2.7 安排面试](chapter2/27md.md)
        * [2.7.1 导入简历](chapter2/271md.md)
