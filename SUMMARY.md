@@ -28,7 +28,7 @@
        * [导入简历](chapter2/271mdmd.md)
        * [2.7.2 安排至面试场地](chapter2/272md.md)
        * [2.7.3 面试官操作](chapter2/273_mian_shi_guan_cao_zuo.md)
-   * [2.8 OFFER审批及发送](chapter2/28_offershen_pi_ji_fa_song.md)
+   * [2.8 OFFER审批及发送](chapter2/28offershen_pi_ji_fa_song_md.md)
        * [2.8.1 OFFER审批](chapter2/281_offershen_pi.md)
        * [2.8.2 OFFER发送](chapter2/282_offerfa_song.md)
    * [2.9 正式录用](chapter2/29_zheng_shi_lu_yong.md)
