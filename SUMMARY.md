@@ -6,7 +6,7 @@
    * [仪表盘](chapter1/section2mdmd.md)
 * [职位](chapter2/readmemdmd.md)
    * [如何进入职位](chapter2/section1mdmd.md)
-   * [2.2 界面介绍](chapter2/jiemian_jie_shao_md.md)
+   * [界面介绍](chapter2/jiemian_jie_shao_md.md)
    * [2.3 新增职位](chapter2/section2mdmd.md)
        * [2.3.1 第一步 新增职位](chapter2/231di_yi_bu_xin_zeng_zhi_wei_md.md)
        * [2.3.2 第二步 填写职位详情](chapter2/232di_er_bu_tian_xie_zhi_wei_xiang_qing_md.md)
