@@ -34,7 +34,7 @@
    * [正式录用](chapter2/29zheng_shi_lu_yong_md.md)
 * [项目](3xiang_mu_md.md)
    * [建立项目](31jian_li_xiang_mu_md.md)
-       * [3.1.1 第一步 新建项目](312di_yi_bu_xin_jian_xiang_mu_md.md)
+       * [第一步 新建项目](312di_yi_bu_xin_jian_xiang_mu_md.md)
        * [3.1.2 第二步 选择流程](312_di_er_bu_xin_jian_liu_cheng.md)
    * [3.2 添加职位](32_tian_jia_zhi_wei.md)
        * [3.2.1 第一步 添加职位](321_di_yi_bu_tian_jia_zhi_wei.md)
