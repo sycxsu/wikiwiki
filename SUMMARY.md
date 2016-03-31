@@ -98,7 +98,7 @@
        * [9.1.1 收取邮箱](911shou_qu_you_xiang_md.md)
        * [9.1.2 简历归档规则](912jian_li_gui_dang_gui_ze_md.md)
    * [9.2 职位筛选流程](92zhi_wei_shai_xuan_liu_cheng_md.md)
-       * [9.2.1 原因](921_yuan_yin.md)
+       * [9.2.1 原因](921yuan_yin_md.md)
        * [9.2.2 状态](922_zhuang_tai.md)
        * [9.2.3 阶段](923_jie_duan.md)
        * [9.2.4 流程](924_liu_cheng.md)
