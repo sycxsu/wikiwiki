@@ -102,7 +102,7 @@
        * [9.2.2 状态](922zhuang_tai_md.md)
        * [9.2.3 阶段](923jie_duan_md.md)
        * [9.2.4 流程](924liu_cheng_md.md)
-       * [9.2.5 职位模板](925_zhi_wei_mo_ban.md)
+       * [9.2.5 职位模板](925zhi_wei_mo_ban_md.md)
    * [9.3 流程中的设置](93_liu_cheng_zhong_de_she_zhi.md)
        * [9.3.1 通知模板](931_tong_zhi_mo_ban.md)
        * [9.3.2 面试评价表](932_mian_shi_ping_jia_biao.md)
