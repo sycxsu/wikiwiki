@@ -68,7 +68,7 @@
        * [储备库展示](621zhang_hao_she_zhi_md.md)
        * [储备库操作](621jian_li_sou_7d22xia_zai__md.md)
    * [黑名单](64hei_ming_dan_md.md)
-* [7 入职管理](7_ru_zhi_guan_li.md)
+* [7 入职管理](7ru_zhi_guan_li_md.md)
    * [7.1 APP设置](71_appshe_zhi.md)
        * [7.1.1 第一步 设定欢迎语](711_di_yi_bu_she_ding_huan_ying_yu.md)
        * [7.1.2 第二步 修改企业简称](712_di_er_bu_xiu_gai_qi_ye_jian_cheng.md)
