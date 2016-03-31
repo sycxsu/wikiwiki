@@ -50,7 +50,7 @@
    * [查看各环节下的应聘者](42cha_kan_ge_huan_jie_xia_de_ying_pin_zhe_md.md)
 * [面试](5mian_shi_md.md)
    * [更改面试安排](51geng_gai_mian_shi_an_pai_md.md)
-   * [5.2 取消面试安排](52qu_xiao_mian_shi_an_pai_md.md)
+   * [取消面试安排](52qu_xiao_mian_shi_an_pai_md.md)
    * [5.3 转发面试安排](53zhuan_fa_mian_shi_an_pai_md.md)
    * [5.4 催促面试官评价](54cui_cu_mian_shi_guan_ping_jia_md.md)
    * [5.5 导出面试安排](55dao_chu_mian_shi_an_pai_md.md)
