@@ -85,7 +85,7 @@
        * [8.2.1 招聘漏斗报表](821_zhao_pin_lou_dou_bao_biao.md)
        * [8.2.2 职位当前招聘情况分析报表](822_zhi_wei_dang_qian_zhao_pin_qing_kuang_fen_xi_b.md)
    * [8.3 渠道效果分析](83_qu_dao_xiao_guo_fen_xi.md)
-       * 8.3.1 猎头效果分析
+       * [8.3.1 猎头效果分析](831_xi_tou_xiao_guo_fen_xi.md)
        * 8.3.2 渠道效果分析
 * [9 设置](9_she_zhi.md)
    * [9.1 邮箱收取简历](91_you_xiang_shou_qu_jian_li.md)
