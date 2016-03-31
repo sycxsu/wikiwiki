@@ -64,7 +64,7 @@
    * [储备人才](63chu_bei_ren_cai_md.md)
        * [展示方式](631zhan_shi_fang_shi_md.md)
        * [简历操作](622jian_li_cao_zuo_md.md)
-   * [6.3 全部储备库](62wang_luo_ren_cai_md.md)
+   * [全部储备库](62wang_luo_ren_cai_md.md)
        * [6.3.1 储备库展示](621zhang_hao_she_zhi_md.md)
        * [6.3.2 储备库操作](621jian_li_sou_7d22xia_zai__md.md)
    * [6.4 黑名单](64hei_ming_dan_md.md)
