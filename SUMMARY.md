@@ -74,7 +74,7 @@
        * [7.1.2 第二步 修改企业简称](712di_er_bu_xiu_gai_qi_ye_jian_cheng_md.md)
        * [第三步 发送邀请](di_san_bu_fa_song_yao_qing.md)
    * [7.2 素材管理](72su_cai_guan_li_md.md)
-   * [7.3 新员工管理](73_xin_yuan_gong_guan_li.md)
+   * [7.3 新员工管理](73xin_yuan_gong_guan_li_md.md)
        * [7.3.1 给新员工发通知](731_gei_xin_yuan_gong_fa_tong_zhi.md)
        * [7.3.2 给新员工发邀请](713di_san_bu_fa_song_yao_qing_md.md)
        * [7.3.3 给新员工发APP消息](733_gei_xin_yuan_gong_fa_app_xiao_xi.md)
