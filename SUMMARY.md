@@ -54,7 +54,7 @@
    * [转发面试安排](53zhuan_fa_mian_shi_an_pai_md.md)
    * [催促面试官评价](54cui_cu_mian_shi_guan_ping_jia_md.md)
    * [导出面试安排](55dao_chu_mian_shi_an_pai_md.md)
-   * [5.6 发通知](56fa_tong_zhi_md.md)
+   * [发通知](56fa_tong_zhi_md.md)
    * [5.7 催促应聘者答复](57cui_cu_ying_pin_zhe_da_fu_md.md)
 * [6 人才库](6ren_cai_ku_md.md)
    * [6.1 企业人才库](61_qi_ye_ren_cai_ku.md)
