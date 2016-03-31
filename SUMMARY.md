@@ -83,6 +83,7 @@
    * [8.1 我的报表](81wo_de_bao_biao_md.md)
    * [8.2 招聘进度分析](81bao_biao_lei_xing_md.md)
        * [8.2.1 招聘漏斗报表](821_zhao_pin_lou_dou_bao_biao.md)
+       * 8.2.2 职位当前招聘情况分析报表
    * [8.2 查看我的报表](83_cha_kan_zi_ding_yi_bao_biao.md)
    * [8.3 导出报表](84_dao_chu_bao_biao.md)
 * [9 设置](9_she_zhi.md)
