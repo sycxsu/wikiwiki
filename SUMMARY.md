@@ -86,7 +86,7 @@
        * [职位当前招聘情况分析报表](822_zhi_wei_dang_qian_zhao_pin_qing_kuang_fen_xi_b.md)
    * [渠道效果分析](83_qu_dao_xiao_guo_fen_xi.md)
        * [猎头效果分析](831_xi_tou_xiao_guo_fen_xi.md)
-       * [8.3.2 渠道效果分析](832_qu_dao_xiao_guo_fen_xi.md)
+       * [渠道效果分析](832_qu_dao_xiao_guo_fen_xi.md)
    * [8.4 招聘事件分析](84_zhao_pin_shi_jian_fen_xi.md)
        * [8.4.1 HR工作量统计](841_hrgong_zuo_liang_tong_ji.md)
        * [8.4.2 面试明细表](842_mian_shi_ming_xi_biao.md)
