@@ -63,7 +63,7 @@
        * [6.1.3 简历操作](613jian_li_cao_zuo_md.md)
    * [6.2 储备人才](63chu_bei_ren_cai_md.md)
        * [6.3.1 展示方式](631zhan_shi_fang_shi_md.md)
-       * [6.3.2 简历操作](632_jian_li_cao_zuo.md)
+       * [6.3.2 简历操作](622jian_li_cao_zuo_md.md)
    * [6.2 网络人才](62wang_luo_ren_cai_md.md)
        * [6.2.1 账号设置](621_zhang_hao_she_zhi.md)
        * [6.2.1 简历搜索/下载](621_jian_li_sou_7d22_xia_zai.md)
