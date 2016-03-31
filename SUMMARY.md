@@ -38,7 +38,7 @@
        * [第二步 选择流程](312di_er_bu_xin_jian_liu_cheng_md.md)
    * [添加职位](32tian_jia_zhi_wei_md.md)
        * [第一步 添加职位](321di_yi_bu_tian_jia_zhi_wei_md.md)
-       * [3.2.2 第二步 设定条件](322_di_er_bu_she_ding_tiao_jian.md)
+       * [3.2.2 第二步 设定条件](322di_er_bu_she_ding_tiao_jian_md.md)
    * [3.3 项目应用](33_xiang_mu_ying_yong.md)
        * [3.3.1 第一步 进入列表](331_di_yi_bu_jin_ru_lie_biao.md)
        * [3.3.2 第二步 简历处理](332_di_er_bu_jian_li_chu_li.md)
