@@ -40,7 +40,7 @@
        * [第一步 添加职位](321di_yi_bu_tian_jia_zhi_wei_md.md)
        * [第二步 设定条件](322di_er_bu_she_ding_tiao_jian_md.md)
    * [项目应用](33xiang_mu_ying_yong_md.md)
-       * [3.3.1 第一步 进入列表](331di_yi_bu_jin_ru_lie_biao_md.md)
+       * [第一步 进入列表](331di_yi_bu_jin_ru_lie_biao_md.md)
        * [3.3.2 第二步 简历处理](332_di_er_bu_jian_li_chu_li.md)
 * [4 应聘者](4_ying_pin_zhe.md)
    * [4.1 新增应聘者](41_xin_zeng_ying_pin_zhe.md)
