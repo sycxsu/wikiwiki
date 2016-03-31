@@ -79,7 +79,7 @@
        * [给新员工发邀请](713di_san_bu_fa_song_yao_qing_md.md)
        * [给新员工发APP消息](733gei_xin_yuan_gong_fa_appxiao_xi__md.md)
    * [APP消息](74appxiao_xi_md.md)
-* [8 报表](8bao_biao_md.md)
+* [报表](8bao_biao_md.md)
    * [8.1 我的报表](81wo_de_bao_biao_md.md)
    * [8.2 招聘进度分析](81bao_biao_lei_xing_md.md)
        * [8.2.1 招聘漏斗报表](821_zhao_pin_lou_dou_bao_biao.md)
