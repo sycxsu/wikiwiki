@@ -5,7 +5,7 @@
    * [工作台](chapter1/section1mdmd.md)
    * [仪表盘](chapter1/section2mdmd.md)
 * [职位](chapter2/zhiweimd.md)
-   * [如何进入职位](chapter2/zhi_4f4d_md.md)
+   * [进入职位](chapter2/zhi_4f4d_md.md)
    * [界面介绍](chapter2/jiemian_jie_shao_md.md)
    * [新增职位](chapter2/section2mdmd.md)
        * [第一步 新增职位](chapter2/231di_yi_bu_xin_zeng_zhi_wei_md.md)
