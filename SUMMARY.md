@@ -57,7 +57,7 @@
    * [发通知](56fa_tong_zhi_md.md)
    * [催促应聘者答复](57cui_cu_ying_pin_zhe_da_fu_md.md)
 * [6 人才库](6ren_cai_ku_md.md)
-   * [6.1 企业人才库](61qi_ye_ren_cai_ku_md.md)
+   * [6.1 高级搜索](61qi_ye_ren_cai_ku_md.md)
        * [6.1.1 简历搜索](611_jian_li_sou_suo.md)
        * [6.1.2 简历导入](612_jian_li_dao_ru.md)
        * [6.1.3 简历操作](613_jian_li_cao_zuo.md)
