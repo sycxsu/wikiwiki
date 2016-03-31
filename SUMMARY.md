@@ -82,7 +82,6 @@
 * [8 报表](8bao_biao_md.md)
    * [8.1 我的报表](81wo_de_bao_biao_md.md)
    * [8.2 招聘进度分析](81bao_biao_lei_xing_md.md)
-       * [8.1.1 旧版本报表-标准报表](811_biao_zhun_bao_biao.md)
        * [8.1.2 旧版本报表-高级报表](812_gao_ji_bao_biao.md)
        * [8.1.3 自定义报表](813_zi_ding_yi_bao_biao.md)
    * [8.2 查看我的报表](83_cha_kan_zi_ding_yi_bao_biao.md)
