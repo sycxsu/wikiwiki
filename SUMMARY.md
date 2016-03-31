@@ -43,7 +43,7 @@
        * [第一步 进入列表](331di_yi_bu_jin_ru_lie_biao_md.md)
        * [第二步 简历处理](332di_er_bu_jian_li_chu_li_md.md)
 * [4 应聘者](4ying_pin_zhe_md.md)
-   * [4.1 新增应聘者](41_xin_zeng_ying_pin_zhe.md)
+   * [4.1 新增应聘者](41xin_zeng_ying_pin_zhe_md.md)
        * [4.1.1 新增应聘者](411_xin_zeng_ying_pin_zhe.md)
        * [4.1.2 导入简历](412_dao_ru_jian_li.md)
        * [4.1.3 导入Excel](413_dao_ru_excel.md)
