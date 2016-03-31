@@ -77,7 +77,7 @@
    * [7.3 新员工管理](73xin_yuan_gong_guan_li_md.md)
        * [7.3.1 给新员工发通知](731gei_xin_yuan_gong_fa_tong_zhi_md.md)
        * [7.3.2 给新员工发邀请](713di_san_bu_fa_song_yao_qing_md.md)
-       * [7.3.3 给新员工发APP消息](733_gei_xin_yuan_gong_fa_app_xiao_xi.md)
+       * [7.3.3 给新员工发APP消息](733gei_xin_yuan_gong_fa_appxiao_xi__md.md)
    * [7.4 APP消息](74_appxiao_xi.md)
 * [8 报表](8_bao_biao.md)
    * [8.1 报表类型](81_bao_biao_lei_xing.md)
