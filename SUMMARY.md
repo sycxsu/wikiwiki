@@ -91,7 +91,7 @@
        * [8.4.1 HR工作量统计](841_hrgong_zuo_liang_tong_ji.md)
        * [8.4.2 面试明细表](842_mian_shi_ming_xi_biao.md)
        * [8.4.3 简历筛选情况分析](843_jian_li_shai_xuan_qing_kuang_fen_xi.md)
-       * 8.4.4 放弃OFFER原因分析
+       * [8.4.4 放弃OFFER原因分析](844_fang_qi_offer_yuan_yin_fen_xi.md)
    * 8.5 自定义报表功能
 * [9 设置](9_she_zhi.md)
    * [9.1 邮箱收取简历](91_you_xiang_shou_qu_jian_li.md)
