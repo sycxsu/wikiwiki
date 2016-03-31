@@ -89,7 +89,7 @@
        * [8.3.2 渠道效果分析](832_qu_dao_xiao_guo_fen_xi.md)
    * [8.4 招聘事件分析](84_zhao_pin_shi_jian_fen_xi.md)
        * [8.4.1 HR工作量统计](841_hrgong_zuo_liang_tong_ji.md)
-       * 8.4.2 面试明细表
+       * [8.4.2 面试明细表](842_mian_shi_ming_xi_biao.md)
        * 8.4.3 简历筛选情况分析
        * 8.4.4 放弃OFFER原因分析
    * 8.5 自定义报表功能
