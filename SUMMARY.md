@@ -92,7 +92,7 @@
        * [面试明细表](842_mian_shi_ming_xi_biao.md)
        * [简历筛选情况分析](843_jian_li_shai_xuan_qing_kuang_fen_xi.md)
        * [放弃OFFER原因分析](844_fang_qi_offer_yuan_yin_fen_xi.md)
-   * [8.5 自定义报表功能](85_zi_ding_yi_bao_biao_gong_neng.md)
+   * [自定义报表功能](85_zi_ding_yi_bao_biao_gong_neng.md)
 * [9 设置](9_she_zhi.md)
    * [9.1 邮箱收取简历](91_you_xiang_shou_qu_jian_li.md)
        * [9.1.1 收取邮箱](911_shou_qu_you_xiang.md)
