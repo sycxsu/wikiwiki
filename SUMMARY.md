@@ -71,7 +71,7 @@
 * [入职管理](7ru_zhi_guan_li_md.md)
    * [APP设置](71appshe_zhi_md.md)
        * [第一步 设定欢迎语](711di_yi_bu_she_ding_huan_ying_yu_md.md)
-       * [7.1.2 第二步 修改企业简称](712di_er_bu_xiu_gai_qi_ye_jian_cheng_md.md)
+       * [第二步 修改企业简称](712di_er_bu_xiu_gai_qi_ye_jian_cheng_md.md)
        * [第三步 发送邀请](di_san_bu_fa_song_yao_qing.md)
    * [7.2 素材管理](72su_cai_guan_li_md.md)
    * [7.3 新员工管理](73xin_yuan_gong_guan_li_md.md)
