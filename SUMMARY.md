@@ -84,7 +84,7 @@
    * [招聘进度分析](81bao_biao_lei_xing_md.md)
        * [招聘漏斗报表](821_zhao_pin_lou_dou_bao_biao.md)
        * [职位当前招聘情况分析报表](822_zhi_wei_dang_qian_zhao_pin_qing_kuang_fen_xi_b.md)
-   * [8.3 渠道效果分析](83_qu_dao_xiao_guo_fen_xi.md)
+   * [渠道效果分析](83_qu_dao_xiao_guo_fen_xi.md)
        * [8.3.1 猎头效果分析](831_xi_tou_xiao_guo_fen_xi.md)
        * [8.3.2 渠道效果分析](832_qu_dao_xiao_guo_fen_xi.md)
    * [8.4 招聘事件分析](84_zhao_pin_shi_jian_fen_xi.md)
