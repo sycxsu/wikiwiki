@@ -124,6 +124,6 @@
        * [9.6.4 招聘门户](964_zhao_pin_men_hu.md)
 * [网络搜索](10wang_luo_sou_suo_md.md)
    * [账号配置](101zhang_hao_pei_zhi_md.md)
-   * [10.2 简历搜索、下载](102jian_li_sou_suo_3001_xia_zai_md.md)
+   * [简历搜索、下载](102jian_li_sou_suo_3001_xia_zai_md.md)
 * [结束](end/readmemd.md)
 
