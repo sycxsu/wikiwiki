@@ -60,7 +60,7 @@
    * [6.1 高级搜索](61qi_ye_ren_cai_ku_md.md)
        * [6.1.1 简历搜索](611jian_li_sou_suo_md.md)
        * [6.1.2 简历导入](612jian_li_dao_ru_md.md)
-       * [6.1.3 简历操作](613_jian_li_cao_zuo.md)
+       * [6.1.3 简历操作](613jian_li_cao_zuo_md.md)
    * [6.2 网络人才](62_wang_luo_ren_cai.md)
        * [6.2.1 账号设置](621_zhang_hao_she_zhi.md)
        * [6.2.1 简历搜索/下载](621_jian_li_sou_7d22_xia_zai.md)
