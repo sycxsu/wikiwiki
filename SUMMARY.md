@@ -88,6 +88,7 @@
        * [8.3.1 猎头效果分析](831_xi_tou_xiao_guo_fen_xi.md)
        * [8.3.2 渠道效果分析](832_qu_dao_xiao_guo_fen_xi.md)
    * 8.4 招聘事件分析
+       * 8.4.1 HR工作量统计
 * [9 设置](9_she_zhi.md)
    * [9.1 邮箱收取简历](91_you_xiang_shou_qu_jian_li.md)
        * [9.1.1 收取邮箱](911_shou_qu_you_xiang.md)
