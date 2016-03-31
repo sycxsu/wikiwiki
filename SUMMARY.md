@@ -122,7 +122,7 @@
        * [9.6.2 猎头推荐表](962_xi_tou_tui_jian_biao.md)
        * [9.6.3 内部推荐设置](963_nei_bu_tui_jian_she_zhi.md)
        * [9.6.4 招聘门户](964_zhao_pin_men_hu.md)
-* [10 网络搜索](10wang_luo_sou_suo_md.md)
+* [网络搜索](10wang_luo_sou_suo_md.md)
    * [10.1 账号配置](101zhang_hao_pei_zhi_md.md)
    * [10.2 简历搜索、下载](102jian_li_sou_suo_3001_xia_zai_md.md)
 * [结束](end/readmemd.md)
