@@ -66,7 +66,7 @@
        * [简历操作](622jian_li_cao_zuo_md.md)
    * [全部储备库](62wang_luo_ren_cai_md.md)
        * [储备库展示](621zhang_hao_she_zhi_md.md)
-       * [6.3.2 储备库操作](621jian_li_sou_7d22xia_zai__md.md)
+       * [储备库操作](621jian_li_sou_7d22xia_zai__md.md)
    * [6.4 黑名单](64hei_ming_dan_md.md)
 * [7 入职管理](7_ru_zhi_guan_li.md)
    * [7.1 APP设置](71_appshe_zhi.md)
