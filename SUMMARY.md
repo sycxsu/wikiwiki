@@ -59,7 +59,7 @@
 * [人才库](6ren_cai_ku_md.md)
    * [高级搜索](61qi_ye_ren_cai_ku_md.md)
        * [简历搜索](611jian_li_sou_suo_md.md)
-       * [6.1.2 简历导入](612jian_li_dao_ru_md.md)
+       * [简历导入](612jian_li_dao_ru_md.md)
        * [6.1.3 简历操作](613jian_li_cao_zuo_md.md)
    * [6.2 储备人才](63chu_bei_ren_cai_md.md)
        * [6.3.1 展示方式](631zhan_shi_fang_shi_md.md)
