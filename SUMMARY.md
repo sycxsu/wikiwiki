@@ -99,7 +99,7 @@
        * [9.1.2 简历归档规则](912jian_li_gui_dang_gui_ze_md.md)
    * [9.2 职位筛选流程](92zhi_wei_shai_xuan_liu_cheng_md.md)
        * [9.2.1 原因](921yuan_yin_md.md)
-       * [9.2.2 状态](922_zhuang_tai.md)
+       * [9.2.2 状态](922zhuang_tai_md.md)
        * [9.2.3 阶段](923_jie_duan.md)
        * [9.2.4 流程](924_liu_cheng.md)
        * [9.2.5 职位模板](925_zhi_wei_mo_ban.md)
