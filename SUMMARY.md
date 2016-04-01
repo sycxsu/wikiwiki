@@ -115,7 +115,7 @@
        * [9.3.9 面试场地管理](939mian_shi_chang_di_guan_li_md.md)
        * [9.3.10 面试站点管理](9310mian_shi_zhan_dian_guan_li_md.md)
    * [9.4 用户权限](94yong_hu_quan_xian_md.md)
-       * [9.4.1 数据权限](941_shu_ju_quan_xian.md)
+       * [9.4.1 数据权限](941shu_ju_quan_xian_md.md)
        * [9.4.2 测评数据](942_ce_ping_shu_ju.md)
    * [9.5 其他](95_qi_ta.md)
        * [9.5.1 公共标签](951_gong_gong_biao_qian.md)
