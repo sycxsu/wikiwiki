@@ -104,7 +104,7 @@
        * [9.2.4 流程](924liu_cheng_md.md)
        * [9.2.5 职位模板](925zhi_wei_mo_ban_md.md)
    * [9.3 流程中的设置](93liu_cheng_zhong_de_she_zhi_md.md)
-       * [9.3.1 通知模板](931_tong_zhi_mo_ban.md)
+       * [9.3.1 通知模板](931tong_zhi_mo_ban_md.md)
        * [9.3.2 面试评价表](932_mian_shi_ping_jia_biao.md)
        * [9.3.3 offer审批设置](933_offershen_pi_she_zhi.md)
        * [9.3.4 锁定设置](934_suo_ding_she_zhi.md)
