@@ -112,7 +112,7 @@
        * [9.3.6 简历评分器](936jian_li_ping_fen_qi_md.md)
        * [9.3.7 简历筛选器](937jian_li_shai_xuan_qi_md.md)
        * [9.3.8 邮件提醒设置](938you_jian_ti_xing_she_zhi_md.md)
-       * [9.3.9 面试场地管理](939_mian_shi_chang_di_guan_li.md)
+       * [9.3.9 面试场地管理](939mian_shi_chang_di_guan_li_md.md)
        * [9.3.10 面试站点管理](9310_mian_shi_zhan_dian_guan_li.md)
    * [9.4 用户权限](94_yong_hu_quan_xian.md)
        * [9.4.1 数据权限](941_shu_ju_quan_xian.md)
