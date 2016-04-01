@@ -107,7 +107,7 @@
        * [9.3.1 通知模板](931tong_zhi_mo_ban_md.md)
        * [9.3.2 面试评价表](932mian_shi_ping_jia_biao_md.md)
        * [9.3.3 offer审批设置](933offershen_pi_she_zhi_md.md)
-       * [9.3.4 锁定设置](934_suo_ding_she_zhi.md)
+       * [9.3.4 锁定设置](934suo_ding_she_zhi_md.md)
        * [9.3.5 考场管理](935_kao_chang_guan_li.md)
        * [9.3.6 简历评分器](936_jian_li_ping_fen_qi.md)
        * [9.3.7 简历筛选器](937_jian_li_shai_xuan_qi.md)
