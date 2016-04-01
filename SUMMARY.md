@@ -122,7 +122,7 @@
        * [9.5.2 应聘者社交动态](952ying_pin_zhe_she_jiao_dong_tai_md.md)
        * [9.5.3 自动化规则](953zi_dong_hua_gui_ze_md.md)
        * [9.5.4 标准简历设置](954biao_zhun_jian_li_she_zhi_md.md)
-       * [9.5.5 应聘者视图管理](955_ying_pin_zhe_shi_tu_guan_li.md)
+       * [9.5.5 应聘者视图管理](955ying_pin_zhe_shi_tu_guan_li_md.md)
    * [9.6 渠道来源](96_qu_dao_lai_yuan.md)
        * [9.6.1 渠道来源](961_qu_dao_lai_yuan.md)
        * [9.6.2 猎头推荐表](962_xi_tou_tui_jian_biao.md)
