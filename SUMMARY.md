@@ -110,7 +110,7 @@
        * [9.3.4 锁定设置](934suo_ding_she_zhi_md.md)
        * [9.3.5 考场管理](935kao_chang_guan_li_md.md)
        * [9.3.6 简历评分器](936jian_li_ping_fen_qi_md.md)
-       * [9.3.7 简历筛选器](937_jian_li_shai_xuan_qi.md)
+       * [9.3.7 简历筛选器](937jian_li_shai_xuan_qi_md.md)
        * [9.3.8 邮件提醒设置](938_you_jian_ti_xing_she_zhi.md)
        * [9.3.9 面试场地管理](939_mian_shi_chang_di_guan_li.md)
        * [9.3.10 面试站点管理](9310_mian_shi_zhan_dian_guan_li.md)
