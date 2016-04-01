@@ -125,7 +125,7 @@
        * [9.5.5 应聘者视图管理](955ying_pin_zhe_shi_tu_guan_li_md.md)
    * [9.6 渠道来源](96qu_dao_lai_yuan_md.md)
        * [9.6.1 渠道来源](961qu_dao_lai_yuan_md.md)
-       * [9.6.2 猎头推荐表](962_xi_tou_tui_jian_biao.md)
+       * [9.6.2 猎头推荐表](962xi_tou_tui_jian_biao_md.md)
        * [9.6.3 内部推荐设置](963_nei_bu_tui_jian_she_zhi.md)
        * [9.6.4 招聘门户](964_zhao_pin_men_hu.md)
 * [网络搜索](10wang_luo_sou_suo_md.md)
