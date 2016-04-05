@@ -93,7 +93,7 @@
        * [简历筛选情况分析](843_jian_li_shai_xuan_qing_kuang_fen_xi.md)
        * [放弃OFFER原因分析](844_fang_qi_offer_yuan_yin_fen_xi.md)
    * [自定义报表功能](85_zi_ding_yi_bao_biao_gong_neng.md)
-* [9 设置](9she_zhi_md.md)
+* [设置](9she_zhi_md.md)
    * [9.1 邮箱收取简历](91you_xiang_shou_qu_jian_li_md.md)
        * [9.1.1 收取邮箱](911shou_qu_you_xiang_md.md)
        * [9.1.2 简历归档规则](912jian_li_gui_dang_gui_ze_md.md)
